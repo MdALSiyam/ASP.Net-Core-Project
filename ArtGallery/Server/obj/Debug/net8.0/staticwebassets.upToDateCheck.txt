@@ -1,0 +1,11 @@
+wwwroot\images\a.jpg
+wwwroot\images\a.jpg.jpg
+wwwroot\images\b.jpg
+wwwroot\images\b.jpg.jpg
+wwwroot\images\c.jpg.jpg
+wwwroot\images\d.jpg
+wwwroot\images\d.jpg.jpg
+wwwroot\images\e.jpg.jpg
+wwwroot\images\image.jpg.jpg
+wwwroot\images\images.jpg.jpg
+wwwroot\images\no.png

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Client.Models.Art>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <h1>Art List</h1>
+ <div class="form-group d-flex justify-content-end">
+ <p>
+    <a asp-action="Create"  class="btn btn-outline-primary">Create New Art</a>
+</p>
+ </div>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            if (Model.ToList().IndexOf(item) % 3 == 0)
+            {
+                if (Model.ToList().IndexOf(item) > 0)
+                {
+                    @:</div>
+                }
+                @:<div class="row">
+            }
+
+            <div class="col-md-4 d-flex justify-content-center">
+                <div class="card mb-3" style="width: 100%;">
+                    <div class="card-body shadow text-center" style="background-color:aliceblue">
+
+                        <div class="rounded-circle overflow-hidden mx-auto mb-2" style="width: 150px; height: 150px;">
+                            @if (!string.IsNullOrEmpty(item.ImageUrl))
+                            {
+                                <img src=@Url.Content("http://localhost:5059" + item.ImageUrl) class="card-img-top img-fluid" alt="Art Image" style="object-fit: cover; width: 100%; height: 100%;">
+                            }
+                            else
+                            {
+                                <img src=@Url.Content("http://localhost:5059/no.png") class="card-img-top img-fluid" alt="No Image" style="object-fit: cover; width: 100%; height: 100%;">
+                            }
+                        </div>
+
+                        <h3 class="card-title">@Html.DisplayFor(modelItem => item.ArtName)</h3>
+                        <p class="card-text">
+                            <br />
+                            <strong>Sell Status:</strong> @(item.IsAvailable ? "Available" : "Not Available")<br />
+                            <strong>Creation Date:</strong> @Html.DisplayFor(modelItem => item.CreationDate)<br />
+                            
+                            <div class="list-unstyled"> @* Remove default list styling *@
+                                <strong>Exhibitions:</strong>
+                                @foreach (var e in item.Exhibitions)
+                                {
+                                    <p class="mt-0 mb-0">@e.Title - @e.Duration days</p> 
+                                }
+                            </div>
+                        </p>
+                        <div>
+                            <a asp-action="Details" asp-route-id="@item.ArtId" class="btn btn-success">Details</a>
+                            <a asp-action="Edit" asp-route-id="@item.ArtId" class="btn btn-primary">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.ArtId" class="btn btn-danger">Delete</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            if (Model.ToList().IndexOf(item) == Model.Count() - 1)
+            {
+                @:</div>
+            }
+        }
+    </div>
+</div>
+

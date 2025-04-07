@@ -1,0 +1,53 @@
+﻿@model Client.Models.Art
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow p-4 mb-5 bg-white rounded" style="max-width: 600px;">
+        @* Card styling *@
+        <div class="card-header text-center border-0 pb-0">
+            @* Header styling, remove bottom border, remove bottom padding *@
+            <div class="rounded-circle overflow-hidden mx-auto mb-3 border border-3 border-light" style="width: 150px; height: 150px;">
+                @* Image container styling *@
+                @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                {
+                    <img src=@Url.Content("http://localhost:5059" + Model.ImageUrl) class="card-img-top img-fluid" alt="Art Image" style="object-fit: cover; width: 100%; height: 100%;">
+                }
+                else
+                {
+                    <img src=@Url.Content("http://localhost:5059/no.png") class="card-img-top img-fluid" alt="No Image" style="object-fit: cover; width: 100%; height: 100%;">
+                }
+            </div>
+            <h2 class="card-title fw-bold mb-2">@Html.DisplayFor(model => model.ArtName)</h2> @* Title styling *@
+            <hr /> @* Separator line below the title *@
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+
+                @* Employment info styling *@
+                <p class="mb-1"><strong>Sell Status:</strong> @(Model.IsAvailable ? "Available" : "Not Available")</p>
+                <p><strong>Creation Date:</strong> @Html.DisplayFor(model => model.CreationDate)</p>
+            </div>
+            <div>
+                @* Exhibitions styling *@
+                <strong class="mb-2 d-block">Exhibitions:</strong>
+                <ul class="list-unstyled">
+                    @foreach (var e in Model.Exhibitions)
+                    {
+                        <li class="mb-2">@e.Title - @e.Duration days</li>
+                    }
+                </ul>
+            </div>
+        </div>
+        <div class="card-footer text-center border-0 pt-0">
+            @* Footer styling, remove top border, remove top padding *@
+            <hr /> @* Separator line above the buttons *@
+            <a asp-action="Edit" asp-route-id="@Model.ArtId" class="btn btn-primary me-2">Edit</a>
+            <a asp-action="Delete" asp-route-id="@Model.ArtId" class="btn btn-danger me-2">Delete</a>
+            <a asp-action="Index" class="btn btn-success">Back to List</a>
+        </div>
+    </div>
+</div>
+

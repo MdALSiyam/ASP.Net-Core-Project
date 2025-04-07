@@ -1,0 +1,6 @@
+wwwroot\bootstrap\css\bootstrap.min.css
+wwwroot\bootstrap\js\bootstrap.min.js
+wwwroot\Img\no.png
+wwwroot\jquery\jquery.min.js
+wwwroot\jquery-validate\jquery.validate.min.js
+wwwroot\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js

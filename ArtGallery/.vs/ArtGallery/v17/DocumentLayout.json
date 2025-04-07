@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\server\\controllers\\artscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|solutionrelative:server\\controllers\\artscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\server\\models\\coreartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|solutionrelative:server\\models\\coreartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\controllers\\artscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\controllers\\artscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\arts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\arts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\arts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\arts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\arts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\arts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200C5159-46BA-4B18-BB6A-CB77096AAB55}|Solution Items{200C5159-46BA-4B18-BB6A-CB77096AAB55}|C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Database.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{200C5159-46BA-4B18-BB6A-CB77096AAB55}|Solution Items{200C5159-46BA-4B18-BB6A-CB77096AAB55}|solutionrelative:Database.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\shared\\_addexhibition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\shared\\_addexhibition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\arts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\arts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\viewmodels\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\viewmodels\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\viewmodels\\artviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\viewmodels\\artviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\models\\art.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\models\\exhibition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\models\\exhibition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0129F4F7-4EBD-4A57-A7B8-AF6F0288C559}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\server\\dtos\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|solutionrelative:server\\dtos\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\server\\dtos\\imgupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|solutionrelative:server\\dtos\\imgupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|c:\\users\\user\\desktop\\github\\exam-8\\mid-8\\1285124\\artgallery\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6606A65E-EB94-41B2-8FCD-0823611EDFB3}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreArtDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Models\\CoreArtDbContext.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\CoreArtDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Models\\CoreArtDbContext.cs",
+              "RelativeToolTip": "Server\\Models\\CoreArtDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:10:28.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Arts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Create.cshtml",
+              "RelativeToolTip": "Client\\Views\\Arts\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:14:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Controllers\\ArtsController.cs",
+              "RelativeDocumentMoniker": "Client\\Controllers\\ArtsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Controllers\\ArtsController.cs",
+              "RelativeToolTip": "Client\\Controllers\\ArtsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:07:59.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Controllers\\ArtsController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\ArtsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Controllers\\ArtsController.cs",
+              "RelativeToolTip": "Server\\Controllers\\ArtsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:01:46.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_AddExhibition.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Shared\\_AddExhibition.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Shared\\_AddExhibition.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Shared\\_AddExhibition.cshtml",
+              "RelativeToolTip": "Client\\Views\\Shared\\_AddExhibition.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:12:07.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Arts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Index.cshtml",
+              "RelativeToolTip": "Client\\Views\\Arts\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:09:48.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Arts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Details.cshtml",
+              "RelativeToolTip": "Client\\Views\\Arts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:13:39.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Client\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:10:31.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T04:58:26.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Client\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:10:20.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\ViewModels\\Common.cs",
+              "RelativeDocumentMoniker": "Client\\ViewModels\\Common.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\ViewModels\\Common.cs",
+              "RelativeToolTip": "Client\\ViewModels\\Common.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:07:03.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\ViewModels\\ArtViewModel.cs",
+              "RelativeDocumentMoniker": "Client\\ViewModels\\ArtViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\ViewModels\\ArtViewModel.cs",
+              "RelativeToolTip": "Client\\ViewModels\\ArtViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:06:33.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:58:44.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Arts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Arts\\Edit.cshtml",
+              "RelativeToolTip": "Client\\Views\\Arts\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:15:28.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:10:09.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Database.txt",
+              "RelativeDocumentMoniker": "Database.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Database.txt",
+              "RelativeToolTip": "Database.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-24T05:36:45.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Exhibition.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Models\\Exhibition.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\Exhibition.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Models\\Exhibition.cs",
+              "RelativeToolTip": "Client\\Models\\Exhibition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:05:51.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Art.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Models\\Art.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\Art.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Models\\Art.cs",
+              "RelativeToolTip": "Client\\Models\\Art.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:05:28.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:04:43.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\DTOs\\Common.cs",
+              "RelativeDocumentMoniker": "Server\\DTOs\\Common.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\DTOs\\Common.cs",
+              "RelativeToolTip": "Server\\DTOs\\Common.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:00:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ImgUpload.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\DTOs\\ImgUpload.cs",
+              "RelativeDocumentMoniker": "Server\\DTOs\\ImgUpload.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\DTOs\\ImgUpload.cs",
+              "RelativeToolTip": "Server\\DTOs\\ImgUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:00:02.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T04:57:02.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

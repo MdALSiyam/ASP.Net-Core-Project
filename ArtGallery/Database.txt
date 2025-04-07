@@ -1,0 +1,22 @@
+=========================================================
+			CoreMidDB
+=========================================================
+
+CREATE TABLE [dbo].[Art] (
+    [ArtId]        INT           IDENTITY (1, 1) NOT NULL,
+    [ArtName]      VARCHAR (50)  NOT NULL,
+    [IsAvailable]  BIT           NOT NULL,
+    [CreationDate] DATETIME      NOT NULL,
+    [ImageName]    VARCHAR (MAX) NULL,
+    [ImageUrl]     VARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([ArtId] ASC)
+);
+
+CREATE TABLE [dbo].[Exhibition] (
+    [ExhibitionId] INT          IDENTITY (101, 1) NOT NULL,
+    [Title]        VARCHAR (50) NOT NULL,
+    [Duration]     INT          NOT NULL,
+    [ArtId]        INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([ExhibitionId] ASC),
+    FOREIGN KEY ([ArtId]) REFERENCES [dbo].[Art] ([ArtId]) ON DELETE CASCADE ON UPDATE CASCADE
+);

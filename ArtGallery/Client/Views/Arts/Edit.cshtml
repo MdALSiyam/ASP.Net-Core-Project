@@ -1,0 +1,101 @@
+﻿@model Client.ViewModels.ArtViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card" style="background-color:aliceblue">
+    <div class="card-header">
+        <div class="card-title" style="text-align:center"><h3>Update Art</h3></div>
+    </div>
+    <div class="card-body">
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <h4>Update Art</h4>
+                    <input hidden asp-for="ArtId" class="form-control" />
+
+                    <div class="form-group">
+                        <label asp-for="ArtName" class="control-label"></label>
+                        <input asp-for="ArtName" class="form-control" />
+                        <span asp-validation-for="ArtName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group form-check mt-3">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="IsAvailable" /> @Html.DisplayNameFor(model => model.IsAvailable)
+                        </label>
+                    </div>
+                    <div class="form-group mt-3">
+                        <label asp-for="CreationDate" class="control-label"></label>
+                        <input asp-for="CreationDate" class="form-control" />
+                        <span asp-validation-for="CreationDate" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mt-3">
+                        <input onchange="ReadUrl(this)" type="file" name="ProfileFile" id="ProfileFile" class="form-control" />
+                        <br />
+                        <img id="ImgF" src=@Url.Content("http://localhost:5059"+Model.ImageUrl) alt="Alternate Text" width="200" />
+                    </div>
+
+                </div>
+                <div class="col-md-6">
+                    <h4>Update Exhibition</h4>
+                    <button onclick="AddExp()" type="button" class="btn btn-outline-primary">Add New</button>
+                    <br />
+                    @Html.Partial("_AddExhibition", Model.Exhibitions)
+                </div>
+            </div>
+            <div class="form-group mt-3 d-flex justify-content-end">
+                <input type="submit" value="Update" class="btn btn-primary me-2" />
+                <a asp-action="Index" class="btn btn-outline-success">Back to List</a>
+            </div>
+        </form>
+
+    </div>
+</div>
+<br />
+<script src="~/jquery/jquery.min.js"></script>
+<script src="~/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+<script>
+    function ReadUrl(i) {
+        if (i.files && i.files[0]) {
+            var red = new FileReader()
+            red.onload = function (e) {
+                $("#ImgF").attr('src', e.target.result)
+            }
+            red.readAsDataURL(i.files[0])
+        }
+    };
+    function AddExp() {
+        var tableBody = $("#Ext tbody"); // Get the table body
+        var index = tableBody.find("tr").length; // Get the current number of rows
+        var newRow = `
+            <tr class="mb-3">
+                    <td><input class="form-control" type="text" name="Exhibitions[${index}].Title" /></td>
+                    <td><input class="form-control" type="number" name="Exhibitions[${index}].Duration" /></td>
+                <td><button onclick="RemoveB(this)" type="button" class="btn btn-danger">Remove</button></td>
+            </tr>`;
+        tableBody.append(newRow);
+    }
+
+    function RemoveB(btn) {
+        $(btn).closest('tr').remove();
+        updateExhibitionIndices();
+    }
+
+    function updateExhibitionIndices() {
+        $("#Ext tbody tr").each(function (index) {
+            $(this).find("input[name^='Exhibitions']").each(function () {
+                var name = $(this).attr("name");
+                name = name.replace(/Exhibitions\[\d+\]/, "Exhibitions[" + index + "]");
+                $(this).attr("name", name);
+            });
+        });
+    }
+
+</script>
+

@@ -1,0 +1,25 @@
+﻿@model List<Client.Models.Exhibition>
+
+<table id="Ext" class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Duration</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <tr class="mb-3">
+
+                    <td><input class="form-control" type="text" name="Exhibitions[@i].Title" value="@Model[i].Title" /></td>
+                    <td><input class="form-control" type="number" name="Exhibitions[@i].Duration" value="@Model[i].Duration" /></td>
+                    <td><button onclick="RemoveB(this)" type="button" class="btn btn-danger">Remove</button></td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

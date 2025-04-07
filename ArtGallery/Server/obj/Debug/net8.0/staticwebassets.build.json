@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "vRfcDLZDmF5qy6FfG5hPjLwvfPPm6RN9aSmQiN1Ut+o=",
+  "Source": "Server",
+  "BasePath": "_content/Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Server\\wwwroot",
+      "Source": "Server",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\a.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hodpdjr33v",
+      "Integrity": "fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\a.jpg.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/a.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hodpdjr33v",
+      "Integrity": "fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\b.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gvkjgev2je",
+      "Integrity": "bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\b.jpg.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/b.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gvkjgev2je",
+      "Integrity": "bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\c.jpg.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/c.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xgl4t1ggda",
+      "Integrity": "sSYv+WQU1aMBD5hM5/wBheh0j6dmFrOz6H29tM23aO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\d.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wyf6mx8v7d",
+      "Integrity": "qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\d.jpg.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/d.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wyf6mx8v7d",
+      "Integrity": "qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\e.jpg.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/e.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91d1pvzinu",
+      "Integrity": "w8IVV2RdPKjTmv0vfn0HoTAZlSdtwkHnfwKN6y69jlg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\image.jpg.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/image.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0kj1mco9yq",
+      "Integrity": "QF8oefdVJ/BH4dCd3dbEsm1v4Nggpka4QqpNyXUbCvI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\images.jpg.jpg",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/images.jpg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ycpiltdxh3",
+      "Integrity": "4inTmEyOHhVu/C8NegCIjD/VijYKLA1bEdYs7h7lFIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.jpg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\no.png",
+      "SourceId": "Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\",
+      "BasePath": "_content/Server",
+      "RelativePath": "images/no#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9u5bqw48hk",
+      "Integrity": "r/PJltUqkeuRVCm4wNyX4IWY5HJFOuTClm2gWeafeFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\no.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/a.hodpdjr33v.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4384233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:41:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hodpdjr33v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc="
+        }
+      ]
+    },
+    {
+      "Route": "images/a.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4384233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:41:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc="
+        }
+      ]
+    },
+    {
+      "Route": "images/a.jpg.hodpdjr33v.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\a.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4384233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:24:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hodpdjr33v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc="
+        }
+      ]
+    },
+    {
+      "Route": "images/a.jpg.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\a.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4384233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:24:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyUWMmcET2uI3lSveF9pG3HLc7jU4RVsmHghBl9tqWc="
+        }
+      ]
+    },
+    {
+      "Route": "images/b.gvkjgev2je.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:23:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gvkjgev2je"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE="
+        }
+      ]
+    },
+    {
+      "Route": "images/b.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:23:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE="
+        }
+      ]
+    },
+    {
+      "Route": "images/b.jpg.gvkjgev2je.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\b.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:26:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gvkjgev2je"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE="
+        }
+      ]
+    },
+    {
+      "Route": "images/b.jpg.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\b.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:26:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bGgn+iZHXF0TgHE39MmG7Z+J+/yV0PNjMJA3HeV1vlE="
+        }
+      ]
+    },
+    {
+      "Route": "images/c.jpg.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\c.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sSYv+WQU1aMBD5hM5/wBheh0j6dmFrOz6H29tM23aO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sSYv+WQU1aMBD5hM5/wBheh0j6dmFrOz6H29tM23aO8="
+        }
+      ]
+    },
+    {
+      "Route": "images/c.jpg.xgl4t1ggda.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\c.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sSYv+WQU1aMBD5hM5/wBheh0j6dmFrOz6H29tM23aO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xgl4t1ggda"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sSYv+WQU1aMBD5hM5/wBheh0j6dmFrOz6H29tM23aO8="
+        }
+      ]
+    },
+    {
+      "Route": "images/d.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:23:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg="
+        }
+      ]
+    },
+    {
+      "Route": "images/d.jpg.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\d.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:25:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg="
+        }
+      ]
+    },
+    {
+      "Route": "images/d.jpg.wyf6mx8v7d.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\d.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:25:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wyf6mx8v7d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg="
+        }
+      ]
+    },
+    {
+      "Route": "images/d.wyf6mx8v7d.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:23:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wyf6mx8v7d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qC9bAuJYXvW1qv4owZaXRAECnJrBPl5SfcELuZ3aMVg="
+        }
+      ]
+    },
+    {
+      "Route": "images/e.jpg.91d1pvzinu.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\e.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8IVV2RdPKjTmv0vfn0HoTAZlSdtwkHnfwKN6y69jlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:41:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91d1pvzinu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w8IVV2RdPKjTmv0vfn0HoTAZlSdtwkHnfwKN6y69jlg="
+        }
+      ]
+    },
+    {
+      "Route": "images/e.jpg.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\e.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w8IVV2RdPKjTmv0vfn0HoTAZlSdtwkHnfwKN6y69jlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 05:41:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w8IVV2RdPKjTmv0vfn0HoTAZlSdtwkHnfwKN6y69jlg="
+        }
+      ]
+    },
+    {
+      "Route": "images/image.jpg.0kj1mco9yq.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\image.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QF8oefdVJ/BH4dCd3dbEsm1v4Nggpka4QqpNyXUbCvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 16:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0kj1mco9yq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QF8oefdVJ/BH4dCd3dbEsm1v4Nggpka4QqpNyXUbCvI="
+        }
+      ]
+    },
+    {
+      "Route": "images/image.jpg.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\image.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QF8oefdVJ/BH4dCd3dbEsm1v4Nggpka4QqpNyXUbCvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 16:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QF8oefdVJ/BH4dCd3dbEsm1v4Nggpka4QqpNyXUbCvI="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.jpg.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\images.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4inTmEyOHhVu/C8NegCIjD/VijYKLA1bEdYs7h7lFIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 16:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4inTmEyOHhVu/C8NegCIjD/VijYKLA1bEdYs7h7lFIQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.jpg.ycpiltdxh3.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\images.jpg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4inTmEyOHhVu/C8NegCIjD/VijYKLA1bEdYs7h7lFIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 16:13:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ycpiltdxh3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images.jpg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4inTmEyOHhVu/C8NegCIjD/VijYKLA1bEdYs7h7lFIQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/no.9u5bqw48hk.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\no.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r/PJltUqkeuRVCm4wNyX4IWY5HJFOuTClm2gWeafeFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 04:40:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9u5bqw48hk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/no.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r/PJltUqkeuRVCm4wNyX4IWY5HJFOuTClm2gWeafeFs="
+        }
+      ]
+    },
+    {
+      "Route": "images/no.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\GitHub\\Exam-8\\Mid-8\\1285124\\ArtGallery\\Server\\wwwroot\\images\\no.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r/PJltUqkeuRVCm4wNyX4IWY5HJFOuTClm2gWeafeFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 04:40:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r/PJltUqkeuRVCm4wNyX4IWY5HJFOuTClm2gWeafeFs="
+        }
+      ]
+    }
+  ]
+}

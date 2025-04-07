@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <br />
+        <nav class="navbar navbar-light bg-secondary justify-content-between">
+            <div class="container">
+                <a class="navbar-brand text-light">Art Gallery</a>
+                <form class="form-inline">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    @* <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button> *@
+                </form>
+            </div>
+        </nav>
+        <br />
+        @RenderBody()
+        <footer class="bg-secondary text-center text-lg-start">
+            <!-- Copyright -->
+            <div class="text-center text-white p-3" style="background-color: rgba(0, 0, 0, 0.05);">
+                © 2025 Copyright:
+                Md. Abdul Latif Siyam
+            </div>
+            <!-- Copyright -->
+        </footer>
+    </div>
+    <script src="~/jquery/jquery.min.js"></script>
+    <script src="~/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
